@@ -3,7 +3,7 @@
 ## Authors
 
 - [@Alea Chlodnik](https://www.github.com/AleaChlodnik)
-- [@Marc.dva](https://www.github.com/Dvaking)
+- [@Marc MENDIA](https://www.github.com/MrAmarok)
 - [@QuentinLeguay](https://www.github.com/QuentinLeguay)
 - [@Tom-Mendy](https://www.github.com/Tom-Mendy)
 
